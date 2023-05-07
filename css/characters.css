@@ -1,0 +1,217 @@
+.section-photos {
+    width: 100%;
+    border-radius: 15px;
+    border: 3px solid var(--golden);
+    background-color: var(--black);
+}
+
+.section-titlecharacters {
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-characters {
+    text-decoration: underline;
+    text-align: center;
+    color: var(--white);
+    margin-bottom: 12px;
+}
+
+
+
+
+.title-casa-gryffindor {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.text-gryffincuadro {
+    height: 50px;
+    width: 500px;
+    color: var(--white);
+    font-size: 26px;
+    background-color: var(--red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photos-gryffindor {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    justify-content: center;
+    gap: 29px;
+}
+
+.foto-g {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    color: var(--white);
+}
+
+.foto-g img {
+    width: 100%;
+    height: 240px;
+    border-radius: 15px;
+    border: 3px solid var(--red);
+}
+
+.foto-g:hover img {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+
+
+.title-casa-slytherin {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.text-slytecuadro {
+    height: 50px;
+    width: 500px;
+    color: var(--white);
+    font-size: 26px;
+    background-color: var(--green);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photos-slytherin {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    justify-content: center;
+    gap: 29px;
+}
+
+.foto-s {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    color: var(--white);
+}
+
+.foto-s img {
+    width: 100%;
+    height: 240px;
+    border-radius: 15px;
+    border: 3px solid var(--green);
+}
+
+.foto-s:hover img {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+
+
+.title-casa-hufflepuff {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.text-hufflecuadro {
+    height: 50px;
+    width: 500px;
+    color: var(--white);
+    font-size: 26px;
+    background-color: var(--yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photos-hufflepuff {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    justify-content: center;
+    gap: 29px;
+}
+
+.foto-h {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    color: var(--white);
+}
+
+.foto-h img {
+    width: 100%;
+    height: 240px;
+    border-radius: 15px;
+    border: 3px solid var(--yellow);
+}
+
+.foto-h:hover img {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+
+
+.title-casa-ravenclaw {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.text-ravencuadro {
+    height: 50px;
+    width: 500px;
+    color: var(--white);
+    font-size: 26px;
+    background-color: var(--blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photos-ravenclaw {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    justify-content: center;
+    gap: 29px;
+}
+
+.foto-r {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    color: var(--white);
+}
+
+.foto-r img {
+    width: 100%;
+    height: 240px;
+    border-radius: 15px;
+    border: 3px solid var(--blue);
+}
+
+.foto-r:hover img {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}

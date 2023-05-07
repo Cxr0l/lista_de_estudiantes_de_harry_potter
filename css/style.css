@@ -1,0 +1,24 @@
+@import "./navar.css";
+@import "./wrapper.css";
+@import "./main-contect.css";
+@import "./characters.css";
+@import "./footer.css";
+
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --golden: #F0C929;
+    --oscuro: #454545;
+    --red: #850000;
+    --green: #285430;
+    --yellow: #EBB02D;
+    --blue: #0B2447;
+    --font: 'Century Gothic';
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--black);
+    font-family: var(--font);
+}
