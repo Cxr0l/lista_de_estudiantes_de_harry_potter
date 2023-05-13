@@ -215,3 +215,50 @@
     transform: scale(1.1);
     transition: transform 0.5s ease;
 }
+
+
+@media (max-width: 768px){
+    .section-photos{
+        max-width: 100%;
+    }
+
+    .text-gryffincuadro{
+        width: 270px;
+    }
+
+    .text-slytecuadro{
+        width: 270px;
+    }
+
+    .text-hufflecuadro{
+        width: 270px;
+    }
+
+    .text-ravencuadro{
+        width: 270px;
+    }
+}
+
+
+@media (max-width: 375px){
+    .section-photos{
+        max-width: 100%;
+    }
+
+    .text-gryffincuadro{
+        width: 270px;
+    }
+
+    .text-slytecuadro{
+        width: 270px;
+    }
+
+    .text-hufflecuadro{
+        width: 270px;
+    }
+
+    .text-ravencuadro{
+        width: 270px;
+    }
+}
+
