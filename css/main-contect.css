@@ -230,6 +230,7 @@
     .text-titleharry img{
         width: 40px;
         height: auto;
+        max-width: 100%;
     }
 
     .photo-description{
@@ -238,7 +239,7 @@
     }
 
     .photo-description img{
-        width: 400px;
+        width: 380px;
         height: auto;
         display: flex;
         justify-content: center;
@@ -305,6 +306,7 @@
     .text-titleharry img{
         width: 40px;
         height: auto;
+        max-width: 100%;
     }
 
     .photo-description{
@@ -313,7 +315,7 @@
     }
 
     .photo-description img{
-        width: 400px;
+        width: 380px;
         height: auto;
         display: flex;
         justify-content: center;
