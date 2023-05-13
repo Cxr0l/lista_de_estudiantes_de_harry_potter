@@ -247,12 +247,17 @@
 
     .section-title {
         max-width: 100%;
-        margin-top: 20px;
+        margin-top: 70px;
     }
 
     .section-title h1.title span {
-        font-size: 45px;
+        font-size: 55px;
         width: 100%;
+    }
+
+    .section-title h1.title span:nth-child(2){
+        margin-bottom: 50px;
+        margin-top: 10px;
     }
 
     .section-title h1.title {
@@ -261,6 +266,10 @@
 
     .presentacion{
         margin-bottom: 35px;
+    }
+
+    .paragraph{
+        margin-top: 20px;
     }
 
 }
