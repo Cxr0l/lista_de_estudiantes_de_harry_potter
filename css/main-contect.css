@@ -159,6 +159,7 @@
     font-weight: bold;
     font-style: italic;
     color: var(--white);
+    text-align: center;
 }
 
 .text-finalpage:hover {

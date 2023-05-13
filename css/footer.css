@@ -27,3 +27,49 @@
 .button-icon {
     text-decoration: none;
 }
+
+
+
+@media (max-width: 768px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 210px;
+        margin-top: 35px;
+        padding: 30px;
+        background-color: var(--golden);
+    }
+
+    .footer-parrafo{
+        margin-top: 15px;
+    }
+
+    .footer-redes{
+        margin-top: 20px;
+    }
+}
+
+
+
+@media (max-width: 375px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 210px;
+        margin-top: 35px;
+        padding: 30px;
+        background-color: var(--golden);
+    }
+
+    .footer-parrafo{
+        margin-top: 15px;
+    }
+
+    .footer-redes{
+        margin-top: 20px;
+    }
+}
