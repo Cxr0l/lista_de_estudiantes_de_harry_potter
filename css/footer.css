@@ -17,6 +17,7 @@
     display: flex;
     color: var(--black);
     font-weight: bold;
+    text-align: center;
 }
 
 .footer-redes {

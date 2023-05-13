@@ -81,6 +81,18 @@
     }
 }
 
+@media (max-width: 768px){
+    .header-logo{
+        display: flex;
+        align-items: center;
+    }
+
+    .header-menu{
+        display: flex;
+        max-width: 100%;
+    }
+}
+
 @media (max-width: 375px) {
     .header-logo{
         display: flex;
